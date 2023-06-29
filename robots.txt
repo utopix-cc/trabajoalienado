@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trabajoalienado.utopix.cc/sitemap.xml
